@@ -4,3 +4,4 @@ while count > 10
 break if count == magic_exit_number
 puts "Happy New Year"
 count -= 10 
+end
